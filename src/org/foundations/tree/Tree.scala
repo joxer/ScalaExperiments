@@ -1,6 +1,6 @@
+package org.foundations.tree
 
 import scala.collection.mutable.Queue
-import scala.collection.parallel.immutable
 import scala.util.Random
 
 /**
